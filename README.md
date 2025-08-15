@@ -212,8 +212,7 @@ Contribuições são sempre bem-vindas! Aqui estão algumas formas de contribuir
 
 ### Versão 1.0 (Atual)
 - ✅ Interface de chat com IA
-- ✅ Geração básica de testes Jest
-- ✅ Sistema de autenticação
+- ✅ Sistema de autenticação (sem authenticação real)
 - ✅ Design responsivo
 
 ### Versão 1.1 (Próxima)
@@ -242,17 +241,14 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Contato
 
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
-- **Email**: seu-email@exemplo.com
-- **LinkedIn**: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- **Website**: [https://seu-site.com](https://seu-site.com)
+- **GitHub**: [@DiogoRocha22](https://github.com/DiogoRocha22)
+- **Email**: diogotechdev@gmail.com
+- **LinkedIn**: [Diogo Rocha](https://www.linkedin.com/in/diogo-rocha-frontend-dev/)
 
 ---
 
 <div align="center">
 
 **⭐ Se este projeto te ajudou, considere dar uma estrela! ⭐**
-
-Feito com ❤️ pela equipe JTest AI
 
 </div>
